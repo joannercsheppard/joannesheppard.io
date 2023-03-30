@@ -10,31 +10,58 @@
       <link>https://joannercsheppard.github.io/joannesheppard.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Mar 2023 15:32:21 +0100</lastBuildDate><atom:link href="https://joannercsheppard.github.io/joannesheppard.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 16:12:12 +0100</lastBuildDate><atom:link href="https://joannercsheppard.github.io/joannesheppard.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/example/</link>
-      <pubDate>Thu, 30 Mar 2023 15:32:21 +0100</pubDate>
+      <title>Earthquake Detection</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/earthquakedetection/</link>
+      <pubDate>Thu, 30 Mar 2023 16:12:12 +0100</pubDate>
       
-      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/example/</guid>
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/earthquakedetection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/bug/</link>
-      <pubDate>Thu, 30 Mar 2023 15:28:36 +0100</pubDate>
+      <title>Website Exploring Scientific Consensus</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</link>
+      <pubDate>Thu, 30 Mar 2023 16:12:12 +0100</pubDate>
       
-      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/bug/</guid>
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illegal Mining in Mynamar</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/illegalmining/</link>
+      <pubDate>Wed, 15 Feb 2023 16:12:12 +0100</pubDate>
+      
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/illegalmining/</guid>
+      <description>Text</description>
+    </item>
+    
+    <item>
+      <title>Pose Estimation for Musicians</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/ragapose/</link>
+      <pubDate>Thu, 01 Dec 2022 15:32:21 +0100</pubDate>
+      
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/ragapose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising Quantum Computing Code</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</link>
+      <pubDate>Tue, 30 Mar 2021 15:28:36 +0100</pubDate>
+      
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</guid>
       <description>Wow another project</description>
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</link>
-      <pubDate>Thu, 30 Mar 2023 15:28:36 +0100</pubDate>
+      <title>Converting MRI to CT Scans</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/bug/</link>
+      <pubDate>Wed, 01 Jan 2020 15:28:36 +0100</pubDate>
       
-      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</guid>
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/bug/</guid>
       <description>Wow another project</description>
     </item>
     
