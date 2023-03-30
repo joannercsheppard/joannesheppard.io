@@ -39,12 +39,12 @@
     </item>
     
     <item>
-      <title>My 1st post</title>
+      <title>Dementia Detection</title>
       <link>https://joannercsheppard.github.io/joannesheppard.io/posts/astrodem/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Sat, 01 Sep 2018 11:30:03 +0000</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/astrodem/</guid>
-      <description>Example 1</description>
+      <description>In the summer of 2018 I was funded to do research as part of the Junior Research Associate scheme at The University of Sussex. During this time I explored methods of finding patients who had been diagnosed with dementia but it had been missed from their medical records. This project was my first ever project using machine learning, in fact, I’m pretty sure it was the first time I ever really used Python in more than a print(“Hello World!</description>
     </item>
     
   </channel>
