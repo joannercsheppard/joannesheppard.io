@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://joannesheppard.github.io/posts/example/</loc>
+    <lastmod>2023-03-30T15:32:21+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/</loc>
+    <lastmod>2023-03-30T15:32:21+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/posts/</loc>
+    <lastmod>2023-03-30T15:32:21+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/posts/astrodem/</loc>
+    <lastmod>2023-03-30T15:28:36+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/posts/bug/</loc>
+    <lastmod>2023-03-30T15:28:36+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/posts/qchack/</loc>
+    <lastmod>2023-03-30T15:28:36+01:00</lastmod>
+  </url><url>
+    <loc>http://joannesheppard.github.io/categories/</loc>
+  </url><url>
+    <loc>http://joannesheppard.github.io/tags/</loc>
+  </url>
+</urlset>
