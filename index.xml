@@ -4,8 +4,12 @@
     <title>Joanne Sheppard</title>
     <link>http://joannesheppard.github.io/</link>
     <description>Recent content on Joanne Sheppard</description>
+    <image>
+      <title>Joanne Sheppard</title>
+      <url>http://joannesheppard.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://joannesheppard.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 30 Mar 2023 15:32:21 +0100</lastBuildDate><atom:link href="http://joannesheppard.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
@@ -14,15 +18,6 @@
       
       <guid>http://joannesheppard.github.io/posts/example/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Project 1</title>
-      <link>http://joannesheppard.github.io/posts/astrodem/</link>
-      <pubDate>Thu, 30 Mar 2023 15:28:36 +0100</pubDate>
-      
-      <guid>http://joannesheppard.github.io/posts/astrodem/</guid>
-      <description>Example post 1</description>
     </item>
     
     <item>
@@ -41,6 +36,15 @@
       
       <guid>http://joannesheppard.github.io/posts/qchack/</guid>
       <description>Wow another project</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>http://joannesheppard.github.io/posts/astrodem/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://joannesheppard.github.io/posts/astrodem/</guid>
+      <description>Example 1</description>
     </item>
     
   </channel>
