@@ -12,48 +12,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Mar 2023 16:12:12 +0100</lastBuildDate><atom:link href="https://joannercsheppard.github.io/joannesheppard.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Determining Scientific Consensus</title>
+      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</link>
+      <pubDate>Thu, 30 Mar 2023 16:12:12 +0100</pubDate>
+      
+      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</guid>
+      <description>I was recently assigned to an exciting new project alongside Dr. Peter Vickers. Our objective is to establish a hub-and-spoke international network, tentatively named &amp;ldquo;The Institute for Ascertaining Scientific Consensus&amp;rdquo; (IASC). With the capacity to email over 100,000 scientists, IASC aims to solicit agree/disagree responses on specific statements of interest, such as &amp;ldquo;Covid is caused by a virus.&amp;rdquo; By sending emails internally within each participating institution and ensuring a minimal time demand for reading and responding, we anticipate high response rates compared to traditional scientific opinion surveys.</description>
+    </item>
+    
+    <item>
       <title>Earthquake Detection</title>
       <link>https://joannercsheppard.github.io/joannesheppard.io/posts/earthquakedetection/</link>
       <pubDate>Thu, 30 Mar 2023 16:12:12 +0100</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/earthquakedetection/</guid>
-      <description></description>
+      <description>Following my highly rewarding experience at the first Data Study Group, I was eager to embark on yet another collaboration. This time, I joined Dr. Jamie Ward&amp;rsquo;s project to explore the potential of deep learning approaches in detecting and locating earthquakes.
+Throughout the project, I played a pivotal role in developing a Convolutional Neural Network (CNN) expanding on existing literature to examine the model&amp;rsquo;s robustness when applied to the California 2019 Earthquake dataset.</description>
     </item>
     
     <item>
-      <title>Website Exploring Scientific Consensus</title>
-      <link>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</link>
-      <pubDate>Thu, 30 Mar 2023 16:12:12 +0100</pubDate>
-      
-      <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/iasc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Illegal Mining in Mynamar</title>
+      <title>Detecting Illegal Mining in Mynamar</title>
       <link>https://joannercsheppard.github.io/joannesheppard.io/posts/illegalmining/</link>
       <pubDate>Wed, 15 Feb 2023 16:12:12 +0100</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/illegalmining/</guid>
-      <description>Text</description>
+      <description>I had the incredible opportunity to participate in a Turing Data Study Group, an event that brought together some of the brightest minds from the fields of data science, artificial intelligence, and beyond to tackle real-world data science challenges. The project I chose to work on aimed at detecting illegal mining activities in Myanmar, inspired by this Global Witness report.
+Leveraging satellite imagery, our group employed various approaches to identify illicit mines.</description>
     </item>
     
     <item>
-      <title>Pose Estimation for Musicians</title>
+      <title>Pose Estimation</title>
       <link>https://joannercsheppard.github.io/joannesheppard.io/posts/ragapose/</link>
       <pubDate>Thu, 01 Dec 2022 15:32:21 +0100</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/ragapose/</guid>
-      <description></description>
+      <description>Raga Pose Estimation comprises a set of tools to facilitate the use of pose estimation software for the analysis of human movement in music performance. It was developed with the study of Indian classical music in mind – hence the name – but can be applied to any other type of small musical ensemble. Raga Pose Estimation was developed by staff in the Music Department and Advanced Research Computing at Durham University, as part of the EU Horizon 2020 FET project EnTimeMent – Entrainment &amp;amp; synchronization at multiple TIME scales in the MENTal foundations of expressive gesture.</description>
     </item>
     
     <item>
-      <title>Optimising Quantum Computing Code</title>
+      <title>Optimising Quantum Computations</title>
       <link>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</link>
       <pubDate>Tue, 30 Mar 2021 15:28:36 +0100</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/qchack/</guid>
-      <description>Wow another project</description>
+      <description>I spent a bit of time exploring Quantum Computing, which seemed like the perfect intersection of my interests in physics and software engineering. I always feel like getting hands-on, intensive experiences is way more valuable when learning about a new subject. So, to gain a better understanding of the field, I decided to participate in a Quantum Computing Hackathon, QCHack.
+During the hackathon, I had the opportunity to work with IBM&amp;rsquo;s Qiskit, Google&amp;rsquo;s Cirq, and Microsoft&amp;rsquo;s Q# to gain hands-on experience and insight into the problems and potential of the field.</description>
     </item>
     
     <item>
@@ -62,7 +65,8 @@
       <pubDate>Wed, 01 Jan 2020 15:28:36 +0100</pubDate>
       
       <guid>https://joannercsheppard.github.io/joannesheppard.io/posts/bug/</guid>
-      <description>Wow another project</description>
+      <description>From November 2019 to August 2020, I had the incredible opportunity to work with some amazing minds at the Biomedical Ultrasound Group (BUG) at University College London. Dr Brad Treeby and Dr Ben Cox were my mentors during this time, and they were working on some pretty exciting stuff.
+The team at BUG was exploring the possibility of using ultrasound therapy to make permanent changes to the brain without the need for invasive surgery.</description>
     </item>
     
     <item>
